@@ -1,3 +1,1 @@
-hey this first
-hey this second
-hey this third
+This is the bug fix in development branch
